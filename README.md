@@ -7,3 +7,5 @@ Related publications can be found here:
 3. [Reply to ‘Revisiting signatures of neutral tumor evolution in the light of complexity of cancer genomic data’](https://www.nature.com/articles/s41588-018-0210-0)
 
 The notebook should render in github after clicking on it. In this notebook simulated datasets subjected to differing degrees of overdispersion are compared and the overdispersion in two data sets is estimated.
+
+Alternatively it will show up [here](https://nbviewer.jupyter.org/github/marcjwilliams1/neutral-tumour-evolution-williams-2018/blob/master/Generate%20Figures.ipynb), if the rendering in github doesn't work.
